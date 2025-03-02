@@ -6,15 +6,8 @@ import time
 import ssl
 import sys
 
-# Renkli Konsol için ANSI Kodları
-RED = "\033[91m"
-GREEN = "\033[92m"
-YELLOW = "\033[93m"
-BLUE = "\033[94m"
-RESET = "\033[0m"
+print(f"\033[92m🚀 Mr.SenihX tarafından Tasarlandı\033[0m") 
 
-
-{GREEN}🚀 Mr.SenihX tarafından Tasarlandı {RESET}
 """
 
 # Kullanıcı Arayüzü Geliştirildi ✅
