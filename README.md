@@ -3,16 +3,16 @@ NoxDdos, yüksek hızda ve etkili bir DDoS saldırı aracı olup, farklı HTTP m
 
 **Kurulum :**
 
- 1.`pkg install python3`
+`pkg install python3`
+
+`pkg install python`
  
- 2.`pkg install python`
+ `pkg install git`
  
- 3.`pkg install git`
+ `git clone https://github.com/SenihX/NoxDdos.git`
  
- 4.`git clone https://github.com/SenihX/NoxDdos.git`
- 
- 5.`cd NoxDdos`
+ `cd NoxDdos`
 
 **Saldırıyı Başlatmak İçin:** 
 
- 6.`python NoxDdos.py -t hedefsite.com -p 80 -r 1000`
+  `python NoxDdos.py -t hedefsite.com -p 80 -r 1000`
